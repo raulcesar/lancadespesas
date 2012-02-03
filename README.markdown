@@ -1,0 +1,3 @@
+# Ruby on Rails Tut...
+This is our first application for
+[*Ruby on Rails Tutorial*] (http://railstutorial.org/)
